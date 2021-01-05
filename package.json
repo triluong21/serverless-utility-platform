@@ -40,7 +40,7 @@
     "@types/mocha": "^7.0.1",
     "@types/node": "^13.7.4",
     "aws-lambda": "^1.0.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "serverless": "^1.64.0",
     "serverless-iam-roles-per-function": "^2.0.2",
